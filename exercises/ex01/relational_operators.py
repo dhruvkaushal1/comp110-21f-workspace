@@ -1,4 +1,4 @@
-"""Using different input types to apply relational operators"""
+"""Using different input types to apply relational operators."""
 __author__ = "730484925"
 
 leftside: str = input("Left-hand side: ")
