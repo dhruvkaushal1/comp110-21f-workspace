@@ -1,12 +1,9 @@
 """Counting letters in a string."""
-
 __author__ = "730484925"
-
 alpha_counter: int = 0
 letter: str = input("What letter do you want to search for?:")
 word: str = input("Enter a word:")
 i: int = 0
-#letter_checker: str = None
 while i < len(word):
     letter_checker = word[i]
     if letter_checker == letter:

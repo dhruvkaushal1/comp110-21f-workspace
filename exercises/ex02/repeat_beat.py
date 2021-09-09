@@ -1,5 +1,4 @@
 """Repeating a beat in a loop."""
-
 __author__ = "730484925"
 i: int = 0
 beat: str = input("What beat do you want to repeat?")
@@ -13,4 +12,3 @@ else:
         print_beat = print_beat + " " + beat
         i = i + 1
     print(print_beat)       
-
