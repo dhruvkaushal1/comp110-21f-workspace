@@ -11,9 +11,9 @@ while i < len(word):
     letter = word[i]
     j = i + 1
     while j < len(word):
-       duplicate = word[j]
-       j += 1
-       if (duplicate == letter):
-           same = True
+        duplicate = word[j]
+        j += 1
+        if (duplicate == letter):
+            same = True
     i += 1
 print("Found duplicate: " + str(same))
