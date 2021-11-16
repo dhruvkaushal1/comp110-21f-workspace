@@ -3,6 +3,7 @@
 __author__ = "123456789"
 
 # Define your functions below
+<<<<<<< HEAD
 
 from csv import DictReader
 
@@ -93,3 +94,5 @@ def count(value_list: list[str]) -> dict[str, int]:
         else:
             result[item] = 1
     return result
+=======
+>>>>>>> 6ef5547196b5cf2be3414f98dcf7f33291022ae8

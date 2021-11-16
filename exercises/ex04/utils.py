@@ -1,5 +1,6 @@
 """List utility functions."""
 
+<<<<<<< HEAD
 __author__ = "730484925"
 
 
@@ -44,3 +45,9 @@ def max(max_list: list[int]) -> int:
             greater_num = num
         i += 1
     return greater_num
+=======
+__author__ = "123456789"
+
+
+# TODO: Implement your functions here.
+>>>>>>> 6ef5547196b5cf2be3414f98dcf7f33291022ae8

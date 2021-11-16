@@ -1,5 +1,6 @@
 """Finding duplicate letters in a word."""
 
+<<<<<<< HEAD
 __author__ = "730484925"
 word: str = input("Enter a word: ")
 i: int = 0
@@ -17,3 +18,6 @@ while i < len(word):
             same = True
     i += 1
 print("Found duplicate: " + str(same))
+=======
+__author__ = "123456789"
+>>>>>>> 6ef5547196b5cf2be3414f98dcf7f33291022ae8

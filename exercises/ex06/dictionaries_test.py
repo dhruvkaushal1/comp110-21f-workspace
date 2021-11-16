@@ -1,6 +1,7 @@
 """Unit tests for dictionary functions."""
 
 # TODO: Uncomment the below line when ready to write unit tests
+<<<<<<< HEAD
 from exercises.ex06.dictionaries import invert, favorite_color, count
 
 __author__ = "730484925"
@@ -49,3 +50,8 @@ def test_count_second() -> None:
 def test_count_third() -> None:
     """This is a test for the third count function."""
     assert count(["1", "2", "2"]) == {"1": 1, "2": 2}
+=======
+# from exercises.ex06.dictionaries import invert, favorite_color, count
+
+__author__ = "123456789"
+>>>>>>> 6ef5547196b5cf2be3414f98dcf7f33291022ae8
