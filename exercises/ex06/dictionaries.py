@@ -1,6 +1,5 @@
 """Practice with dictionaries."""
 
-<<<<<<< HEAD
 __author__ = "730484925"
 
 # Define your functions below
@@ -46,8 +45,3 @@ def count(input_list: list[str]) -> dict[str, int]:
         else:
             final_dic[key] = 1
     return final_dic
-=======
-__author__ = "123456789"
-
-# Define your functions below
->>>>>>> 6ef5547196b5cf2be3414f98dcf7f33291022ae8

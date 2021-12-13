@@ -1,6 +1,5 @@
 """List utility functions part 2."""
 
-<<<<<<< HEAD
 __author__ = "730484925"
 
 
@@ -51,8 +50,3 @@ def concat(first_list: list[int], second_list: list[int]) -> list[int]:
     def test_evens() -> None:
         """This is to test the only evens with two evens"""
         assert only_evens([2,4,5]) == [2,4]
-=======
-__author__ = "123456789"
-
-# Define your functions below
->>>>>>> 6ef5547196b5cf2be3414f98dcf7f33291022ae8
